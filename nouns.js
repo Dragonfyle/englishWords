@@ -1,4 +1,4 @@
-module.exports = [
+[
 "aardvark",
 "abacus",
 "abbey",
@@ -4552,5 +4552,5 @@ module.exports = [
 "zoologist",
 "zoology",
 "zoot-suit",
-"zucchini",
+"zucchini"
 ]
