@@ -1,0 +1,12 @@
+[
+  "tax",
+  "levy",
+  "toll",
+  "fee",
+  "charge",
+  "customs",
+  "tribute",
+  "liability",
+  "contribution",
+  "tariff"
+  ]
