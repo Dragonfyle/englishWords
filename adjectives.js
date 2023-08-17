@@ -5,7 +5,6 @@
   "additional",
   "extra",
   "reserve",
-  "residual",
   "trace",
   "spare",
   "non-normative",
